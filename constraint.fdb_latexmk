@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1706096738 "/Users/arturo/Documents/GitHub/Constraint/constraint.tex" "constraint.pdf" "constraint" 1706096738
-  "/Users/arturo/Documents/GitHub/Constraint/constraint.tex" 1706096736 35172 2cfc451d8105dacdc3770f03cae33032 ""
+["pdflatex"] 1706097077 "/Users/arturo/Documents/GitHub/Constraint/constraint.tex" "constraint.pdf" "constraint" 1706097077
+  "/Users/arturo/Documents/GitHub/Constraint/constraint.tex" 1706097076 35177 471f53ef9e280e2b5837781a215fe5b3 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -180,9 +180,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1658423165 2826440 c88ba54b2ad688aea2e5ccbb396fd85b ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "constraint.aux" 1706096738 2425 0f76a5f7c38d18f8c80c6a831bb8bd97 "pdflatex"
-  "constraint.out" 1706096738 1158 76c65d83636ed9e0a0896d5512867488 "pdflatex"
-  "constraint.tex" 1706096736 35172 2cfc451d8105dacdc3770f03cae33032 ""
+  "constraint.aux" 1706097077 2361 6b9c7300f1cf43c42172a406f54103a1 "pdflatex"
+  "constraint.out" 1706097077 1158 76c65d83636ed9e0a0896d5512867488 "pdflatex"
+  "constraint.tex" 1706097076 35177 471f53ef9e280e2b5837781a215fe5b3 ""
   (generated)
   "constraint.aux"
   "constraint.log"
